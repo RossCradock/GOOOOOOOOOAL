@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GOOOOOOOOOAL!!!</string>
+    <string name="instructions">1. Choose from one of the goal celebrations, you can select and test out the celebrations by pressing the play buttons.
+    \n\n2. Then either turn the on/off button on or turn on the match timer to keep app on for the length full of a match.
+    \n\n3. Now the next time there is a goal wake up your phone (no need to unlock) then shake it.....goal goal goal GOOOOOOOOOOOAL!!!!!!!</string>
+    <string name="startMatchTimerButton">Start Match Timer</string>
+    <string name="startMatchTimerNumber">105:00</string>
+    <string name="stopMatchTimerButton">Stop</string>
+    <string name="instructionsTitle">Instructions:</string>
+</resources>
